@@ -28,3 +28,7 @@ scikit-learn
 streamlit
 
 pydantic
+
+langchain_community
+
+bs4
