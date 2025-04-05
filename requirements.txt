@@ -32,3 +32,5 @@ pydantic
 langchain_community
 
 bs4
+
+Langchain-experimental
